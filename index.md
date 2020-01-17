@@ -1,3 +1,9 @@
-Use this page to test app suggestions in Slack.
+<!DOCTYPE html>
+<html>
+<body>
 
-Copy and paste this page's url into Slack. In dev, we should see a suggestion for Lunch Train.
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
